@@ -43,8 +43,13 @@
 Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funcionamiento.
 
 - [Evidencia 1]
-- [Evidencia 2]
+- [Evidencia 2<img width="1887" height="967" alt="4" src="https://github.com/user-attachments/assets/73d45212-1687-424d-b131-5c7886bb8871" />
+<img width="1907" height="945" alt="3" src="https://github.com/user-attachments/assets/2ecf2a75-d882-4d70-a95d-a03fa97ab88d" />
+<img width="1852" height="937" alt="2" src="https://github.com/user-attachments/assets/5c7ef3c0-6649-482f-ae6b-d36a1229cb6d" />
+<img width="1847" height="947" alt="1" src="https://github.com/user-attachments/assets/14231f88-d3a9-4493-bf56-90d4c213060e" />
+]
 - [Evidencia 3]
+- [Evidencia 4]
 
 ## 5. Matriz de participación
 
