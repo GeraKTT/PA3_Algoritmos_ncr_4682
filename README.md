@@ -2,15 +2,17 @@
 
 > **Curso:** PROGRAMACION WEB - II  
 > **Código:** 30690  
-> **Evaluación:** [PA1 / PA2 / PA3 / PA4 / EI]  
+> **Evaluación:** [ PA3 ]  
 > **Equipo:** [NOMBRE O NÚMERO]  
 
 ## 1. Integrantes
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | [Rol] | [Aporte] |
-| [Nombre 2] | [Rol] | [Aporte] |
+| [Nombre 1] | actividad 2] | [Aporte] |
+| [mijail mendoza chavez] | [Rol] | 
+
+Desarrollo de Cola FIFO, pseudocódigo e implementación en Java |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] |
 | [Nombre 5] | [Rol] | [Aporte] |
