@@ -9,8 +9,8 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| [Nombre 1] | actividad 2] | [Aporte] |
-| [mijail mendoza chavez] | [Rol] | 
+| [Nombre 1] |rol] | [Aporte] |
+| [mijail mendoza chavez] | [actividad 2] | 
 
 Desarrollo de Cola FIFO, pseudocódigo e implementación en Java |
 | [Nombre 3] | [Rol] | [Aporte] |
