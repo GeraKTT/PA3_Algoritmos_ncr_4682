@@ -9,7 +9,7 @@
 
 | Integrante | Rol | Aporte principal |
 |---|---|---|
-| Geraldine Khatrina Tudela Theo | Desarrolladora | Desarrollo de la actividad 3: Selección y justificación de estructuras LIFO y FIFO en situaciones reales. |
+| Geraldine Khatrina Tudela Theo | Desarrolladora | Desarrollo de la actividad 1: Representación gráfica, diseño de algoritmos de pila LIFO y Desarrollo de la actividad 3: Análisis y justificación del uso de estructuras LIFO y FIFO en situaciones reales. |
 | Mijail Mendoza Chavez | Programador | Desarrollo de la actividad 2: Desarrollo de Cola FIFO, pseudocódigo e implementación en Java |
 | [Nombre 3] | [Rol] | [Aporte] |
 | [Nombre 4] | [Rol] | [Aporte] 
@@ -29,13 +29,13 @@ Se desarrolló una propuesta basada en el uso de pilas y colas, incluyendo sus r
 ## 3. Cómo ejecutar o revisar
 
 ```bash
-# Escribir aquí los comandos necesarios
+El repositorio contiene el desarrollo de las cuatro actividades de la PA3, relacionadas con las estructuras de datos pila (LIFO) y cola (FIFO). Las soluciones se presentan mediante documentos que incluyen explicaciones, representaciones gráficas, pseudocódigos, aplicaciones y justificaciones.
 ```
 
 **Pasos de revisión:**
-1. [Paso 1]
-2. [Paso 2]
-3. [Paso 3]
+1. Ingresar al repositorio de GitHub y revisar los archivos correspondientes a cada actividad.
+2. Abrir o descargar los documentos para visualizar las explicaciones, representaciones gráficas, algoritmos y justificaciones desarrolladas.
+3. Revisar la sección de evidencias del README, donde se muestran las capturas y los aportes realizados por los integrantes del equipo.
 
 > No publicar contraseñas, tokens, credenciales ni datos sensibles.
 
@@ -44,21 +44,28 @@ Se desarrolló una propuesta basada en el uso de pilas y colas, incluyendo sus r
 Agregar aquí capturas, resultados, pruebas o enlaces que demuestren el funcionamiento.
 
 - Evidencia 1:
+  
+Codigo:
+<img width="1027" height="894" alt="codigo1" src="https://github.com/user-attachments/assets/66475d46-0a26-42dd-8147-d557464f9c70" />
+<img width="1005" height="276" alt="codigo2" src="https://github.com/user-attachments/assets/9554ddc4-4129-49d9-8a27-7eb3b3c800f5" />
+Ejecucion:
+<img width="941" height="524" alt="ejecucion" src="https://github.com/user-attachments/assets/1384ac3b-f4bb-4e5e-a21d-795313088dba" />
+
 - Evidencia 2:
 <img width="1887" height="967" alt="4" src="https://github.com/user-attachments/assets/73d45212-1687-424d-b131-5c7886bb8871" />
 <img width="1907" height="945" alt="3" src="https://github.com/user-attachments/assets/2ecf2a75-d882-4d70-a95d-a03fa97ab88d" />
 <img width="1852" height="937" alt="2" src="https://github.com/user-attachments/assets/5c7ef3c0-6649-482f-ae6b-d36a1229cb6d" />
 <img width="1847" height="947" alt="1" src="https://github.com/user-attachments/assets/14231f88-d3a9-4493-bf56-90d4c213060e" />
-- Evidencia 3:
+- Evidencia 3: Archivos de la actividad 3 subida al repositorio de GitHub, con registro de participación mediante commits.
 - Evidencia 4:
 
 ## 5. Matriz de participación
 
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 |---|---|---|---|---|---|
-| [Nombre 1] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Geraldine Khatrina Tudela Theo | Alta | Media | Alta | Sí/No | Desarrollo de las actividades 1 y 3, representación gráfica de pila LIFO, pseudocódigo, análisis de casos, documentación y commits en GitHub. |
 | mijail mendoza chavez | Alta | Alta | media | Sí/No | Desarrollo de Actividad 2, código Java y capturas. |
-| Geraldine Khatrina Tudela Theo | Media | Media | Alta | Sí/No | Desarrollo de la Actividad 3, aportes al informe y commits en GitHub. |
+| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
