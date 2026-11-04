@@ -11,7 +11,7 @@
 |---|---|---|
 | Geraldine Khatrina Tudela Theo | Desarrolladora | Desarrollo de la actividad 1: Representación gráfica, diseño de algoritmos de pila LIFO y Desarrollo de la actividad 3: Análisis y justificación del uso de estructuras LIFO y FIFO en situaciones reales. |
 | Mijail Mendoza Chavez | Programador | Desarrollo de la actividad 2: Desarrollo de Cola FIFO, pseudocódigo e implementación en Java |
-| [Nombre 3] | [Rol] | [Aporte] |
+|Victor Manuel Fabricio Quispe Gonzales | Analista|Desarrollo de la Actividad 4: Comparación académica entre pilas y colas, elaboración del cuadro comparativo, redacción de la conclusión grupal y consolidación del README |
 | [Nombre 4] | [Rol] | [Aporte] 
 | [Nombre 5] | [Rol] | [Aporte] |
 
@@ -57,7 +57,7 @@ Ejecucion:
 <img width="1852" height="937" alt="2" src="https://github.com/user-attachments/assets/5c7ef3c0-6649-482f-ae6b-d36a1229cb6d" />
 <img width="1847" height="947" alt="1" src="https://github.com/user-attachments/assets/14231f88-d3a9-4493-bf56-90d4c213060e" />
 - Evidencia 3: Archivos de la actividad 3 subida al repositorio de GitHub, con registro de participación mediante commits.
-- Evidencia 4:
+- Evidencia 4: Documento finalizado de la Actividad 4 conteniendo el análisis comparativo entre Pilas y Colas, junto con la justificación técnica grupal sobre la selección de la estructura.
 
 ## 5. Matriz de participación
 
@@ -65,7 +65,7 @@ Ejecucion:
 |---|---|---|---|---|---|
 | Geraldine Khatrina Tudela Theo | Alta | Media | Alta | Sí/No | Desarrollo de las actividades 1 y 3, representación gráfica de pila LIFO, pseudocódigo, análisis de casos, documentación y commits en GitHub. |
 | mijail mendoza chavez | Alta | Alta | media | Sí/No | Desarrollo de Actividad 2, código Java y capturas. |
-| [Nombre 3] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
+| Victor Manuel Fabricio Quispe Gonzales | Alta | Media | Alta | Sí | Desarrollo de la Actividad 4, cuadro comparativo, redacción de conclusiones y estructuración del README. |
 | [Nombre 4] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 | [Nombre 5] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Alta/Media/Baja] | [Sí/No] | [Commits, avances, etc.] |
 
@@ -78,10 +78,9 @@ Todos los integrantes deben participar en la exposición con sus cámaras prendi
 
 ## 7. Conclusiones
 
-- [Conclusión 1]
-- [Conclusión 2]
-- [Conclusión 3]
-
+- Precisión LIFO (Pilas): Se determinó que la estructura de Pila es la única opción viable para gestionar el sistema de acciones que deben deshacerse. Al restringir el acceso únicamente por la parte superior (tope o cima), garantiza que se revierta siempre el cambio más reciente. Esto modela de forma segura los historiales con una eficiencia algorítmica de $O(1)$, de manera idéntica a cómo funciona el botón "atrás" de un navegador web.
+- Equidad FIFO (Colas): Para el flujo de atención de solicitudes, se comprobó que la estructura de Cola asegura la equidad del proceso académico. Al permitir la inserción por el final (rear) y la extracción por el frente (front), mantiene un orden secuencial estricto, garantizando que el primer estudiante en llegar sea el primero en ser atendido. Esto replica sistemas reales como las colas de impresión o la planificación de procesos operativos con un rendimiento óptimo de $O(1)$.
+- Impacto en la Arquitectura de Software: El desarrollo de esta evaluación demostró que la correcta selección entre una pila y una cola previene fallos críticos de funcionamiento. Intercambiar estas estructuras en el sistema académico habría corrompido la integridad de los datos (al deshacer la acción equivocada) o generado un flujo de atención injusto. Por tanto, elegir la estructura dinámica correcta es fundamental para modelar los procesos del mundo real con escalabilidad y eficiencia.
 ---
 
-**Última actualización:** [11/03/2026]
+**Última actualización:** [03/11/2026]
